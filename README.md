@@ -1,40 +1,40 @@
-# Sales Forecasting App 📊
+Sales Forecasting App 📊
 
 A full-stack machine learning application for product demand forecasting built with React frontend and Python FastAPI backend.
 
-## 🚀 Features
+🚀 Features
 
-- **Predictive Analytics**: Machine learning model for sales forecasting
-- **Interactive Dashboard**: Beautiful React-based user interface
-- **RESTful API**: FastAPI backend with comprehensive endpoints
-- **Data Visualization**: Interactive charts and performance metrics
-- **Responsive Design**: Works seamlessly on desktop and mobile devices
+Predictive Analytics**: Machine learning model for sales forecasting
+Interactive Dashboard**: Beautiful React-based user interface
+RESTful API: FastAPI backend with comprehensive endpoints
+Data Visualization: Interactive charts and performance metrics
+  Responsive Design: Works seamlessly on desktop and mobile devices
 
 ## 🏗️ Project Structure
 sales-forecasting-app/
 ├── backend/ # Python FastAPI Backend
-│ ├── app/ # Main application
-│ │ ├── core/ # Core functionality
-│ │ ├── models/ # ML models
-│ │ ├── schemas/ # Pydantic schemas
-│ │ ├── init.py
-│ │ └── main.py # FastAPI application
-│ ├── requirements.txt # Python dependencies
+   ├── app/ # Main application
+     ├── core/ # Core functionality
+      ├── models/ # ML models
+      ├── schemas/ # Pydantic schemas
+       ├── init.py
+       └── main.py # FastAPI application
+── requirements.txt # Python dependencies
 │ └── Readme.md # Backend documentation
 ├── frontend/ # React Frontend
-│ ├── src/
-│ │ ├── components/ # React components
-│ │ │ ├── PredictionForm.jsx
-│ │ │ ├── ResultDisplay.jsx
-│ │ │ └── HistoryChart.jsx
-│ │ ├── assets/ # Static assets
-│ │ ├── App.jsx # Main App component
-│ │ └── main.jsx # Application entry point
-│ ├── package.json # Node.js dependencies
+     ─ src/
+     ├── components/ # React components
+      ├── PredictionForm.jsx
+        ├── ResultDisplay.jsx
+         └── HistoryChart.jsx
+         ├── assets/ # Static assets
+         ├── App.jsx # Main App component
+         └── main.jsx # Application entry point
+       ── package.json # Node.js dependencies
 │ └── vite.config.js # Vite configuration
 └── README.md # This file
 
-text
+text 
 
 ## ⚙️ Installation & Setup
 
